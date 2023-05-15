@@ -1,0 +1,55 @@
+{
+  "data": [
+    {
+      "id": "petItem15",
+      "name": "Hamster Wheel",
+      "colors": ["#E6E6E6", "#BFBFBF"],
+      "company": "PetPro",
+      "price": 29.99,
+      "description": "A silent hamster wheel for your furry little friend to exercise in without any noise. The wheel is made with high-quality material that will last long.",
+      "category": "Hamster",
+      "shipping": true,
+      "stock": 14,
+      "reviews": 11,
+      "stars": 2.8,
+      "image": [
+        {
+          "id": "randomid1",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/736x/b3/7b/02/b37b02132081c915591f8418065f9f8c.jpg",
+          "filename": "prod-1.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid2",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/736x/b3/7b/02/b37b02132081c915591f8418065f9f8c.jpg",
+          "filename": "prod-2.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid3",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/736x/b3/7b/02/b37b02132081c915591f8418065f9f8c.jpg",
+          "filename": "prod-3.png",
+          "size": 1080,
+          "type": "image/png"
+        },
+        {
+          "id": "randomid4",
+          "width": 1080,
+          "height": 650,
+          "url": "https://i.pinimg.com/736x/b3/7b/02/b37b02132081c915591f8418065f9f8c.jpg",
+          "filename": "prod-4.png",
+          "size": 1080,
+          "type": "image/png"
+        }
+      ]
+    }
+  ]
+}
